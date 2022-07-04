@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/blueweather/static/css/main.0cd53f88.css",
-    "main.js": "/blueweather/static/js/main.70619ab6.js",
+    "main.css": "/blueweather/static/css/main.8a796466.css",
+    "main.js": "/blueweather/static/js/main.b2029570.js",
     "static/js/787.d3befce1.chunk.js": "/blueweather/static/js/787.d3befce1.chunk.js",
     "static/media/rainnight.gif": "/blueweather/static/media/rainnight.947cf630c9794be689a1.gif",
-    "static/media/snow-winter.gif": "/blueweather/static/media/snow-winter.4cf66f8fad7415549bbf.gif",
     "static/media/rain.gif": "/blueweather/static/media/rain.a6cab5f189bf161b5399.gif",
-    "static/media/winter.gif": "/blueweather/static/media/winter.a0bc8ac0a1da6234c960.gif",
     "static/media/bw.png": "/blueweather/static/media/bw.aeacba71f28addbad354.png",
     "static/media/pexels-photo-1118873.webp": "/blueweather/static/media/pexels-photo-1118873.1fed61c99519c00bab9f.webp",
+    "static/media/brightness-high-fill.svg": "/blueweather/static/media/brightness-high-fill.3b237e47995228f20fffcc3ca97ddfb9.svg",
     "index.html": "/blueweather/index.html",
     "static/media/sun-foggy-line.svg": "/blueweather/static/media/sun-foggy-line.5e6b6a8eff65844e04bfb162162c10b2.svg",
     "static/media/search-line.svg": "/blueweather/static/media/search-line.d360115021aa0a1b05d855768648fc32.svg",
-    "main.0cd53f88.css.map": "/blueweather/static/css/main.0cd53f88.css.map",
-    "main.70619ab6.js.map": "/blueweather/static/js/main.70619ab6.js.map",
+    "static/media/moon-fill.svg": "/blueweather/static/media/moon-fill.1a85404a9b82e303f8114d57e5765576.svg",
+    "main.8a796466.css.map": "/blueweather/static/css/main.8a796466.css.map",
+    "main.b2029570.js.map": "/blueweather/static/js/main.b2029570.js.map",
     "787.d3befce1.chunk.js.map": "/blueweather/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cd53f88.css",
-    "static/js/main.70619ab6.js"
+    "static/css/main.8a796466.css",
+    "static/js/main.b2029570.js"
   ]
 }
